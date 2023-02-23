@@ -1,0 +1,6 @@
+summary
+seveority
+priority
+steps to reproduce
+expected result
+actual result
